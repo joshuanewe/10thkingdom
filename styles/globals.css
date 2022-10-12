@@ -239,7 +239,7 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-color: #f02d34;
+  background-color: #c9b8e9;
   border-radius: 15px;
   position: relative;
   height: 400px;
@@ -656,7 +656,7 @@ margin-top: 160px;
     right: -6%;
   }
   .footer-banner-container{
-    height: 560px;
+    height: 300px;
     margin-top: 80px;
   }
   .footer-banner-image{
